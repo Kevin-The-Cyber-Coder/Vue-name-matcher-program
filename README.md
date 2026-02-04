@@ -44,7 +44,27 @@ Government inspired layout using national branding.
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation 
+git clone https://github.com/Kevin-The-Cyber-Coder/Vue-name-matcher-program.git 
+Install dependencies:
+
+npm install
+
+
+Run project:
+
+npm run dev
+
+
+---
+
+## 🇷🇼 Vision
+
+Building digital tools to support Rwanda education and youth innovation.
+
+---
+
+⭐ Built with passion by Kevin The Cyber Coder
 
 Clone the repo:
 
