@@ -51,7 +51,7 @@ Install dependencies:
 npm install
 
 
-Run project:
+Run project:Vue-name-matcher-program
 
 npm run dev
 
@@ -66,5 +66,5 @@ Building digital tools to support Rwanda education and youth innovation.
 
 ⭐ Built with passion by Kevin The Cyber Coder
 
-Clone the repo:
+Clone the repo:https://github.com/Kevin-The-Cyber-Coder/Vue-name-matcher-program.git
 
